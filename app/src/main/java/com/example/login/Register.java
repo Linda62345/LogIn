@@ -41,6 +41,7 @@ public class Register extends AppCompatActivity {
         btnRegister = findViewById(R.id.btnRegister);
         name = email = password = reenterPassword = "";
         //second commit
+        //third commit
     }
 
     public void save(View view) {
