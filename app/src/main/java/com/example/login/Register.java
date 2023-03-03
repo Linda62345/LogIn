@@ -40,6 +40,7 @@ public class Register extends AppCompatActivity {
         tvStatus = findViewById(R.id.tvStatus);
         btnRegister = findViewById(R.id.btnRegister);
         name = email = password = reenterPassword = "";
+        //second commit
     }
 
     public void save(View view) {
